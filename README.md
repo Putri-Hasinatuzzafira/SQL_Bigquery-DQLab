@@ -32,3 +32,6 @@ The dataset is stored in Google BigQuery (imported from parquet files).
 
 ## Notes
 All queries are executed using Google BigQuery through Google Colab.
+
+## Author
+Putri Hasinatuzzafira
